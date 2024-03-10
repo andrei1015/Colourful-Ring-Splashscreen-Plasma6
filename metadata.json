@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "andrei1015+plasma@gmail.com",
+                "Name": "andrei1015"
+            }
+        ],
+        "Category": "",
+        "Description": "Colourful-Ring-Splashscreen For Plasma 6 (port from https://store.kde.org/p/2002405)",
+        "Id": "Ring-Splashscreen-Plasma6",
+        "License": "GPLv3",
+        "Name": "Colourful-Ring-Splashscreen-Plasma6",
+        "Website": "https://github.com/andrei1015/Ring-Splashscreen-Plasma6"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+
